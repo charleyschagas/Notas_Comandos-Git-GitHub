@@ -1,3 +1,4 @@
 ##5 - Comandos de configuração
 Git Best: rm -rf dio_projetogit (para apagar uma pasta)
 Git Best: git clone git@github.com:charleyschagas/dio_projectgit.git (clonando o projeto para o PC)
+Git Best: git pull origin main (Alterações realizadas no github podem ser replicadas para o projeto no pc)
