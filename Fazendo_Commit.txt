@@ -1,0 +1,10 @@
+##3 - Fazendo um commit:
+Curiosidades: https://www.atlassian.com/br/git/tutorials/syncing/git-fetch
+
+O comando clone, cria implicitamente a referencia ao repositório remoto. a principal função do git clone é fazer uma cópia local. mas ele roda o git remote nos bastidores, para sua cópia local não perder a memória de onde ela veio.
+
+O git remote add não copia nada. apenas informa ao seu repositório local onde tem uma outra versão dele.
+
+Git Best: git commit -m "Passo 1, baixando, instalando e configurando o Git"
+Git Best: git status (pronto para o push)
+Git Best: git log (para ver todos os commit)

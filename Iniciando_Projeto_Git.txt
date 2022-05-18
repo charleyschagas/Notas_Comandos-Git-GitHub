@@ -1,0 +1,14 @@
+##2 - Iniciando um projeto Git:  
+- Criando uma pasta:
+Git Best: mkdir dio_projetogit (criando uma pasta)
+Git Best: cd dio_projectgit
+Git Best: git init (para iniciar um projeto)
+Git Best: ls
+Git Best: ls -a (foi criado um arquivo oculto "./  ../  .git/")
+-Criando um arquivo:
+Git Best: touch Baixar-Intalar-Config_Git.txt (criação de arquivo .txt)
+Git Best: nano Baixar-Intalar-Config_Git.txt (escrever ou editar arquivo)
+Git Best: git dif (caso querira visualizar alterações realizadas no arquivo)
+Git Best: git status (Os arquivos aparecerão no Untracked files (arquivos novos))
+Git Best:git add . 
+Git Best: git status (Arquivos para commit)

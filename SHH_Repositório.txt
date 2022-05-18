@@ -1,0 +1,20 @@
+##4 - Apontando para o GitHub:
+
+-Criar uma chave SSH:
+Git Best: ssh-keygen (adcionar nome a chave)(logo ele vai pedir para colocar a seha / caso senha Y ou N)
+Git Best: cat nomedachave (Cópia a chave e cola no Chaves SSH github)
+Git Best: eval 'ssh-agente' (colocando ssh)
+Git Best: ssh-add nomedachave (configurado)
+
+- Criar repositório no GitHub
+Novo repositório preencher sem criar arquivo e criar.
+
+Utilizar:
+…ou envie um repositório existente a partir da linha de comando
+git remote add origin git@github.com:charleyschagas/teste.git
+git branch -M main 
+git push -u origin main 
+
+Dá o comando dentro da pasta de conecção com o repositório:
+Git Best: git remote add origin link (URL s SSH)
+Git Best: git push origin main (minha branch é main)
