@@ -1,0 +1,6 @@
+##1 - Baixar / Instalar Git / Config:
+Link para download https://git-scm.com/download/win
+
+Git Best: git config --global user.name "nome do usuário no GitHub"
+Git Best: git config --global user.email "email@gmail.com"
+Git Best: git config --list.
